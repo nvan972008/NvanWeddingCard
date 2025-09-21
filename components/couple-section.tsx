@@ -19,7 +19,7 @@ export function CoupleSection() {
             <CardContent className="p-8">
               <div className="mb-6">
                 <img
-                  src="/elegant-vietnamese-bride-portrait-traditional-ao-d.jpg"
+                  src="/NvanWeddingCard/elegant-vietnamese-bride-portrait-traditional-ao-d.jpg"
                   alt="Cô dâu Nguyễn Thị Bích Ngọc"
                   className="w-48 h-48 rounded-full mx-auto object-cover border-4 border-primary/20 group-hover:border-primary/40 transition-colors"
                 />
@@ -41,7 +41,7 @@ export function CoupleSection() {
             <CardContent className="p-8">
               <div className="mb-6">
                 <img
-                  src="/handsome-vietnamese-groom-portrait-formal-suit.jpg"
+                  src="/NvanWeddingCard/handsome-vietnamese-groom-portrait-formal-suit.jpg"
                   alt="Chú rể Nguyễn Văn An"
                   className="w-48 h-48 rounded-full mx-auto object-cover border-4 border-primary/20 group-hover:border-primary/40 transition-colors"
                 />

@@ -53,7 +53,7 @@ export function RSVPSection() {
                 <p className="text-muted-foreground mb-4">123 Đường Lê Lợi, Quận 1, TP. Hồ Chí Minh</p>
                 <div className="aspect-video bg-muted rounded-lg overflow-hidden">
                   <img
-                    src="/elegant-wedding-venue-reception-hall-vietnam.jpg"
+                    src="/NvanWeddingCard/elegant-wedding-venue-reception-hall-vietnam.jpg"
                     alt="Địa điểm tổ chức đám cưới"
                     className="w-full h-full object-cover"
                   />

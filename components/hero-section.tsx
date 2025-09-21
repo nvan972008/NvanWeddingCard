@@ -53,7 +53,7 @@ export function HeroSection() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `url('/BubuDudu.jpg')`,
+          backgroundImage: `url('/NvanWeddingCard/BubuDudu.jpg')`,
         }}
       />
 
@@ -70,7 +70,7 @@ export function HeroSection() {
           <div
             className="relative w-146 h-90 mx-auto flex items-center justify-center bg-contain bg-center bg-no-repeat"
             style={{
-              backgroundImage: `url('/header-love-bg.png')`,
+              backgroundImage: `url('/NvanWeddingCard/header-love-bg.png')`,
             }}
           >
 

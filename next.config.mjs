@@ -9,6 +9,11 @@ const nextConfig = {
   },
   images: {
     unoptimized: true,
+  },
+  basePath: '/NvanWeddingCard',
+  assetPrefix: '/NvanWeddingCard/',
+  publicRuntimeConfig: {
+    basePath: '/NvanWeddingCard',
   }
 }
 
